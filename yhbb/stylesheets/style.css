@@ -293,7 +293,7 @@ section.container:target > form.flip {
 section.container > form.flip > .front {
   font-size: 1.25em;
   background: beige url("../images/bg.png");
-  background: url("../images/stamp.png") no-repeat 450px 20px, url("../images/bg.png");
+  background: url("https://pic.rmb.bdstatic.com/bjh/a040130a2adb0acbeaf5d2647f11ada4.png") no-repeat 450px 20px, url("../images/bg.png");
   padding: 147px 20px 20px 31%;
   border: 1px #eae1d5 solid; }
 
